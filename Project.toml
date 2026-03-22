@@ -16,12 +16,3 @@ Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
 Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 UUIDs = "cf7118a7-6976-5b1a-9a39-7adc72f591a4"
-
-[compat]
-Colors = "0.9, 0.10, 0.11, 0.12, 0.13"
-DataStructures = "0.11, 0.12, 0.13, 0.14, 0.15, 0.16, 0.17, 0.18, 0.19"
-IterTools = "1"
-JSON = "0.18, 0.19, 0.20, 0.21"
-Measures = "0.3"
-Requires = "0.5, 1.0"
-julia = "1"
